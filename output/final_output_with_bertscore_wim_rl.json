@@ -1,0 +1,266 @@
+[
+  {
+    "query": "VIVA Media AG changed it's name in 2004. What does their new acronym stand for?",
+    "answer": "Gesellschaft mit beschränkter Haftung",
+    "final_answer": "\nAnswer: VIVA\n\n\n['\\nAnswer: VIVA Media AG changed its name in 2004. Its new acronym stands for \"VIVA Germany.\"', '.\\nAnswer",
+    "bert_score_precision": -0.08944893628358841,
+    "bert_score_recall": 0.0042433650232851505,
+    "bert_score_f1": -0.04442831128835678
+  },
+  {
+    "query": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+    "answer": "Jonny\" Craig",
+    "final_answer": "\nAnswer: Jonny Craig\n\n\n['\\nAnswer: 'A\\nAnswer: A\\nAnswer: 'A\\nAnswer: 'A\\nAnswer: 'A\\nAnswer:",
+    "bert_score_precision": -0.1213657557964325,
+    "bert_score_recall": 0.2802400588989258,
+    "bert_score_f1": 0.017491579055786133
+  },
+  {
+    "query": "Where was the first governor after the The Missouri Compromise from?",
+    "answer": "Bath, Maine",
+    "final_answer": "\nAnswer: New York\n\n\n['\\nAnswer: The first governor after the The Missouri Compromise was not mentioned in the context provided.', '\\nAnswer: The first governor after the The Missouri Compromise was located in the",
+    "bert_score_precision": -0.17770913243293762,
+    "bert_score_recall": 0.010523492470383644,
+    "bert_score_f1": -0.1000308245420456
+  },
+  {
+    "query": "The creator of \"Wallace and Gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+    "answer": "Creature Comforts",
+    "final_answer": "\nAnswer: The text does not contain sufficient information related to the question.\n\n\n['\\nAnswer: The question 'What is the difference between a lemonade stand and a lemonade stand?' is a simple one, as it",
+    "bert_score_precision": -0.08064668625593185,
+    "bert_score_recall": 0.013461756519973278,
+    "bert_score_f1": -0.03540157154202461
+  },
+  {
+    "query": "Woman's Era and Naj are what kind of magazines?",
+    "answer": "fortnightly women interest magazine",
+    "final_answer": "\nAnswer: They are not magazines.\n\n\n['\\nAnswer: The question 'Why do people want to play hockey?' is a simple one, as it is a sport that is played on ice and requires physical exertion",
+    "bert_score_precision": -0.07750837504863739,
+    "bert_score_recall": 0.03959190472960472,
+    "bert_score_f1": -0.022974660620093346
+  },
+  {
+    "query": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+    "answer": "a failed coup attempt",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question.",
+    "bert_score_precision": -0.058437563478946686,
+    "bert_score_recall": 0.03392796963453293,
+    "bert_score_f1": -0.013792608864605427
+  },
+  {
+    "query": "Jaclyn Stapp is married to the former frontman of a band that disbanded in what year?",
+    "answer": "2004",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['. The question asks for the name of a former member of a band who disbanded in what year. The answer is 'Jaclyn Stapp",
+    "bert_score_precision": -0.1643054038286209,
+    "bert_score_recall": -0.054277416318655014,
+    "bert_score_f1": -0.11350977420806885
+  },
+  {
+    "query": " If You Ever Get Lonely was covered by what Lyric Street Records-affiliated band?",
+    "answer": "Love and Theft",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['The text does not contain sufficient information related to the query.', 'The text does not contain sufficient information related to the query.']\n\n\n['\\",
+    "bert_score_precision": -0.13806171715259552,
+    "bert_score_recall": -0.05492980405688286,
+    "bert_score_f1": -0.09767712652683258
+  },
+  {
+    "query": "When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014–15 Southampton F.C. season born",
+    "answer": "2 March 1972",
+    "final_answer": "?\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t",
+    "bert_score_precision": -0.20582953095436096,
+    "bert_score_recall": -0.10687481611967087,
+    "bert_score_f1": -0.15981073677539825
+  },
+  {
+    "query": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+    "answer": "Tybalt",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, «, (, - and,1",
+    "bert_score_precision": -0.028915196657180786,
+    "bert_score_recall": 0.06020466983318329,
+    "bert_score_f1": 0.014497402124106884
+  },
+  {
+    "query": "Stronger Together was used for the campaign comprised of the Vice Presidential candidate who was a Senator from what state?",
+    "answer": "Virginia",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.1492117941379547,
+    "bert_score_recall": 0.05473589152097702,
+    "bert_score_f1": -0.06545181572437286
+  },
+  {
+    "query": "Are Darren Benjamin Shepherd and Rémi Lange both American?",
+    "answer": "no",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.1355333775281906,
+    "bert_score_recall": 0.11718963831663132,
+    "bert_score_f1": -0.0363306850194931
+  },
+  {
+    "query": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",
+    "answer": "Engineering",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.2140020728111267,
+    "bert_score_recall": 0.04150240495800972,
+    "bert_score_f1": -0.11893263459205627
+  },
+  {
+    "query": "Lollipop Chainsaw featured Juliet Starling, who was voiced by a Canadian-American actress who has done voice roles for what Teen Titans spinoff series?",
+    "answer": "Teen Titans Go!",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.1479054093360901,
+    "bert_score_recall": -0.0982360914349556,
+    "bert_score_f1": -0.12181700021028519
+  },
+  {
+    "query": "What team was led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\"?",
+    "answer": "Oklahoma Sooners",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.21311163902282715,
+    "bert_score_recall": -0.2368021160364151,
+    "bert_score_f1": -0.22244611382484436
+  },
+  {
+    "query": "This expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for what award?",
+    "answer": "Pulitzer Prize",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.19921907782554626,
+    "bert_score_recall": -0.15400196611881256,
+    "bert_score_f1": -0.17515307664871216
+  },
+  {
+    "query": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+    "answer": "1988",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.17238019406795502,
+    "bert_score_recall": -0.04941592738032341,
+    "bert_score_f1": -0.11685947328805923
+  },
+  {
+    "query": "The W. H. Shipman House is in what Hawaii county?",
+    "answer": "Hawaii County",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.1844552755355835,
+    "bert_score_recall": -0.12108248472213745,
+    "bert_score_f1": -0.15253090858459473
+  },
+  {
+    "query": "The trophy given to the winner of the college football game between University of Idaho Vandals and University of Montana Grizzlies is derived from which European culture?",
+    "answer": "German",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.2184637486934662,
+    "bert_score_recall": -0.07910721749067307,
+    "bert_score_f1": -0.15816587209701538
+  },
+  {
+    "query": "What stadium does the team who has Kent Baer as the defensive coordinator play its home games?",
+    "answer": "Sam Boyd Stadium",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.2139451652765274,
+    "bert_score_recall": -0.14578062295913696,
+    "bert_score_f1": -0.18017402291297913
+  },
+  {
+    "query": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+    "answer": "1941",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.14363686740398407,
+    "bert_score_recall": -0.013755370862782001,
+    "bert_score_f1": -0.08507227152585983
+  },
+  {
+    "query": "The organization that Nicolae Titulescu served two terms as president was founded on what date?",
+    "answer": "10 January 1920",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, («, (-21\\t-.",
+    "bert_score_precision": -0.17137205600738525,
+    "bert_score_recall": -0.04775712266564369,
+    "bert_score_f1": -0.1155942976474762
+  },
+  {
+    "query": "What is Opry Mills in Nashville, Tennessee?",
+    "answer": "super-regional shopping mall",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.16864240169525146,
+    "bert_score_recall": -0.06177341192960739,
+    "bert_score_f1": -0.1191110834479332
+  },
+  {
+    "query": "Ed Oxenbould plays Tyler in a film directed by which famous director?",
+    "answer": "M. Night Shyamalan",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.1910596787929535,
+    "bert_score_recall": -0.20513558387756348,
+    "bert_score_f1": -0.19535811245441437
+  },
+  {
+    "query": "Sadok Sassi played for a national team that made its first World Cup in what year?",
+    "answer": "1978",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.15754586458206177,
+    "bert_score_recall": 0.02639443427324295,
+    "bert_score_f1": -0.08051825314760208
+  },
+  {
+    "query": "Otterington railway station was on a 393 mi major railway that linked Edinburgh to what city?",
+    "answer": "London",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.18946222960948944,
+    "bert_score_recall": 0.019903885200619698,
+    "bert_score_f1": -0.10579223185777664
+  },
+  {
+    "query": "Are both Coldplay and Pierre Bouvier from the same country?",
+    "answer": "no",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.11894445866346359,
+    "bert_score_recall": 0.21269600093364716,
+    "bert_score_f1": 0.0030209976248443127
+  },
+  {
+    "query": "This term about a playwright who lived from 1564-1616 presented what about his works? ",
+    "answer": "chronological collection of critical quotations",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.12681367993354797,
+    "bert_score_recall": 0.04278278723359108,
+    "bert_score_f1": -0.05369666963815689
+  },
+  {
+    "query": "What is the birthday of this Anglo-Irish actress, courtean, and mistress, who was the mother to the illegitimate daughter of King William IV?",
+    "answer": "22 November",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.21006359159946442,
+    "bert_score_recall": -0.11937650293111801,
+    "bert_score_f1": -0.16727349162101746
+  },
+  {
+    "query": "Kenneth L. Gile is the Chief Operating Officer of an airline with its head office in what airport?",
+    "answer": "Dubai International Airport",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.2252247929573059,
+    "bert_score_recall": -0.15360334515571594,
+    "bert_score_f1": -0.19012267887592316
+  },
+  {
+    "query": "In what state is the manufacturer of Bisquick headquartered?",
+    "answer": "Minnesota",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.17230387032032013,
+    "bert_score_recall": 0.05255100876092911,
+    "bert_score_f1": -0.08318275958299637
+  },
+  {
+    "query": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+    "answer": "1927",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.17309623956680298,
+    "bert_score_recall": 0.08236704021692276,
+    "bert_score_f1": -0.07526087015867233
+  },
+  {
+    "query": "In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?",
+    "answer": "\"Read It and Weep\" (2006)",
+    "final_answer": "\nAnswer: The text does not provide a specific answer to the question. ```\n['..,. - ,-1 and , .. and The 1...,,  .+8, \" :, « » |, ( ,, ,",
+    "bert_score_precision": -0.13079938292503357,
+    "bert_score_recall": -0.02374964766204357,
+    "bert_score_f1": -0.08075807988643646
+  }
+]

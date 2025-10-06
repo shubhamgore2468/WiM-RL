@@ -97,7 +97,7 @@ class RLMarginGenerator:
     def __init__(
         self, 
         model_id: str,
-        reward_model_id: str = None,
+        reward_model_id: str ,
         rl_config: RLConfig = None,
         device: str = "cuda"
     ):
@@ -114,14 +114,12 @@ class RLMarginGenerator:
         self.tokenizer = AutoTokenizer.from_pretrained(model_id)
         
         # Initialize the policy model (for generating margins)
-        print('policy model', model_id)
         self.policy_model = AutoModelForCausalLM.from_pretrained(
             model_id,
             device_map=device,
             torch_dtype=torch.bfloat16,
         )
         
-        print('ref model', model_id)
         # Initialize the reference model (for KL divergence computation)
         self.ref_model = AutoModelForCausalLM.from_pretrained(
             model_id,
@@ -259,6 +257,7 @@ class RLMarginGenerator:
     ):
         """Generate a margin using the current policy model."""
         # Prefill the segment
+        # Prefill model KV-cache with segment
         prefilled_tokens_before_extractive_summary, _, _ = self.wim.prefill_text_with_kv_cache(
             segment, self.wim.wim_kv_cache
         )
@@ -268,7 +267,7 @@ class RLMarginGenerator:
             extractive_summary_prompt.format(query=query), self.wim.wim_kv_cache
         )
         
-        print("extractive_summary_outputs", extractive_summary_outputs)
+        # print("extractive_summary_prompt", extractive_summary_prompt.format(query=query))
         # Generate the margin
         margin = self.wim.generate_text_with_kv_cache(
             max_new_tokens=max_new_tokens,
@@ -310,8 +309,8 @@ class RLMarginGenerator:
             new_size=0, kv_cache=self.wim.classifier_kv_cache
         )
         print("generate_rl_margin")
-        print(is_relevant, "is_relevant")
-        print(margin, "margin")
+        print("is_relevant : ", is_relevant)
+        print("margin : ", margin)
         return margin, is_relevant
         
     def _parse_classifier_output(self, output: str) -> bool:
@@ -375,7 +374,7 @@ class RLMarginGenerator:
                 # Tokenize the segment + extractive summary prompt + margin
                 context = segment + extractive_summary_prompt.format(query=query) + margin
                 input_tokens = self.tokenizer(context, return_tensors="pt", padding=True).to(self.device)
-                
+                 
                 # Create labels for computing log probs
                 labels = input_tokens.input_ids.clone()
                 # Mask out tokens we don't want to compute loss for

@@ -2,47 +2,34 @@ import torch
 from transformers import AutoModel, AutoTokenizer, DynamicCache, Cache
 from dataclasses import dataclass
 from typing import List, Dict, Any, Callable
-# import flash_attn
 
 def _sample_top_p(logits, top_p=0.9):
-    # First normalize the logits to prevent overflow/underflow
     logits = logits - torch.max(logits)
     
-    # Convert to probabilities with softmax
     probs = torch.nn.functional.softmax(logits, dim=-1)
     
-    # Apply a small epsilon to avoid numerical issues
     eps = 1e-10
     probs = torch.clamp(probs, min=eps)
-    probs = probs / probs.sum()  # Re-normalize
+    probs = probs / probs.sum()  
     
-    # Sort the probabilities
     sorted_probs, sorted_indices = torch.sort(probs, descending=True)
     
-    # Compute cumulative probabilities
     cumulative_probs = torch.cumsum(sorted_probs, dim=-1)
     
-    # Remove tokens with cumulative probability above the threshold
     sorted_indices_to_remove = cumulative_probs > top_p
-    # Keep the first token above threshold
     sorted_indices_to_remove[..., 1:] = sorted_indices_to_remove[..., :-1].clone()
     sorted_indices_to_remove[..., 0] = 0
     
-    # Scatter back to original indices
     indices_to_remove = sorted_indices_to_remove.scatter(dim=-1, index=sorted_indices, src=sorted_indices_to_remove)
     probs = probs.masked_fill(indices_to_remove, 0.0)
     
-    # Re-normalize after masking
     probs = probs / (probs.sum() + eps)
     
-    # Check for invalid values before sampling
     if torch.isnan(probs).any() or torch.isinf(probs).any() or (probs < 0).any():
-        # Fix invalid values
         probs = torch.nan_to_num(probs, nan=eps, posinf=1.0, neginf=eps)
         probs = torch.clamp(probs, min=eps)
-        probs = probs / probs.sum()  # Re-normalize
+        probs = probs / probs.sum()  
     
-    # Sample from the filtered distribution
     next_token = torch.multinomial(probs, num_samples=1)
     
     return next_token
@@ -64,7 +51,6 @@ class WIMInference:
         cache_positions: torch.Tensor,
         kv_cache: Cache,
     ):
-        print(self.model)
         with torch.no_grad():
             outputs = self.model(
                 input_ids=input_ids,

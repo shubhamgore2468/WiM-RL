@@ -1,0 +1,861 @@
+--- Episode 1/5 ---
+Generating margins: 100%|██████████| 7/7 [00:06<00:00,  1.05it/s]
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Donkey Kong Country Returns is a side-scrolling platformer video game developed by Retro Studios and published by Nintendo for the Wii console. The game was released first in North America in November 2010, and in PAL regions and Japan the following month. A stereoscopic port of the game, titled Donkey Kong Country Returns 3D, was released for the Nintendo 3DS in May 2013, and in Japan the following month. The 34th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA), honored the best in film for 2008. Pixar's animated film "WALL-E" won the Best Film award and became the first ever animated film to do so, however, the film lost the Best Animated Film award to "Waltz with Bashir". "Man! I Feel Like a Woman!" is a song recorded by Canadian singer-songwriter Shania Twain taken from her third studio album, "Come On Over" (1997).
+Margin: 
+Answer: The relevant information to answer the question is: "The Country Bears was released first in North America in November 2010, and in PAL regions and Japan the following month."
+Reward: 0.47863635420799255
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Written by Twain with her longtime collaborator and then-husband Robert John "Mutt" Lange, who also produced the track, the song was released first to North American country radio stations in March 1999 as the seventh single from the album, and later it was released worldwide in September 1999. "Man! I Feel Like a Woman!" is a country pop song with lyrics about female empowerment. John Otway & Wild Willy Barrett is the 1976 debut album by English folk singer-songwriter duo John Otway and Wild Willy Barrett. Released first on their own Extracked Records, the album is a collection of recordings made between 1971 and 1976. The Country Bears is a 2002 American family musical comedy film, directed by Peter Hastings, produced by Walt Disney Pictures, and based on the Disney theme park attraction "Country Bear Jamboree". The film stars Haley Joel Osment as the voice of Beary Barrington with supporting roles done by Christopher Walken, Stephen Tobolowsky, Daryl Mitchell, M.C.
+Margin: 
+Answer: The Country Bears was released first in 1976, while The Wild was released in 2002.
+Reward: 0.5114091038703918
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Gainey, Diedrich Bader, Alex Rocco, Meagen Fay, Eli Marienthal, and the voice talents of Diedrich Bader, Candy Ford, James Gammon, Brad Garrett, Toby Huss, Kevin Michael Richardson, and Stephen Root. Candy Ford (born May 1, 1975) is an American comedian and television actress, best known for starring in the sketch comedy, "The Rerun Show", Ford has also appeared in other TV programs including: "Curb Your Enthusiasm", "Will & Grace", and she provided voicework for the "Law & Order" videogame, and starred on the short-lived NBC sketch comedy, "The Rerun Show" and voiced Trixie in the film "The Country Bears" and later starred in "Girls Behaving Badly".
+Margin: 
+Answer: Based on the context, "The Wild" was released first, followed by "The Country Bears".
+Reward: 0.5084090828895569
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Ogu and Mampato in Rapa Nui (Spanish: "Ogú y Mampato en Rapa Nui" ), also known as Mampato: The Movie (Spanish: "Mampato: La Película") is a feature-length Chilean animated film, created by Cine Animadores and executive produced by Elastic Studios, released June 27, 2002. Although the film isn't the first animated feature made in Chile, being the second after Alfredo Serey's 1921 film "La Trasmisión del Mando Presidencial" ("The Transmission of Presidential Control"), it is considered the country's first "modern" animated film. The movie is based on the Chilean comics character Mampato created in 1971 for the magazine of the same name by Themo Lobos and Eduardo Armstrong, and later reprinted as the comic-book Cucalón, the story for the film being adapted from the seventh adventure in the series: "Mata-ki-te-rangui".
+Margin: .
+The country where the film was released is Chile, and the film is "The Country Bears". Therefore, the answer to the question is "The Country Bears".
+Reward: 0.4804825186729431
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: The Wild is a 2006 American 3D computer animated comedy directed by animator Steve "Spaz" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin. It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton. Mickey's House of Villains (also known as House of Mouse: The Villains) is a 2002 direct-to-video animated film produced by The Walt Disney Company (Walt Disney Television Animation and Toon City Animation, with animation coordination by Walt Disney Feature Animation Florida. It is based on the Disney Channel animated television series "Disney's House of Mouse" and a sequel to the direct-to-video animated film "", starring Mickey Mouse, Donald Duck, Minnie Mouse, Goofy, Daisy Duck and Disney Villains that have appeared in past Disney productions. It was released on both VHS and DVD by Walt Disney Home Video on September 3, 2002.
+Margin: .
+Answer: The Country Bears and The Wild were both animated films released in 2006.
+
+The Country Bears was released on November 20, 2006, and is a childrens
+Reward: 0.5176035165786743
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: It was followed by a 2004 direct-to-video animated film, "", produced by DisneyToon Studios, on August 17, 2004. Toys in the Attic (Czech: Na půdě aneb Kdo má dneska narozeniny? ; festival title: In the Attic: Who Has a Birthday Today?) is a 2009 Czech-French-Japanese-Slovak primarily stop-motion animated fantasy comedy thriller family film directed by Jiří Barta and written by Edgar Dutka and Barta which depicts a community of toys and other objects in an attic who come to life when no human is around. It is an international co-production of Czech, Japanese and Slovak companies. The film was released first in the Czech Republic on 5 March 2009 and has been shown subtitled at film festivals internationally.
+Margin: .
+Answer: The Country Bears and The Wild are not related to each other. The Country Bears was released first in 2004, while The Wild was released in 2009.
+Reward: 0.5227662324905396
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: An American dub – adapted, produced and directed by Vivian Schilling and performed by actors including Forest Whitaker, Joan Cusack, Cary Elwes and Schilling herself – has been recorded, which the film was first shown with on 3 March 2012 at the New York International Children's Film Festival and was released nationally on 24 August 2012 by Hannover House.
+Margin: 
+The query "Which animated film was released first, The Country Bears or The Wild?" does not provide enough context to extract the relevant information.
+Reward: 0.6370000243186951
+ppo epoch: 0
+outputs.loss tensor(0.3690, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.1781, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.1725, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.1609, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.7170, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.8378, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.7394, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.7546, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.5123, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.7742, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.7321, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.5253, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3327, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0649, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.1265, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2200, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3756, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2374, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3453, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1008, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3675, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.2477, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0682, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0894, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0908, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0994, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0674, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.8706, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.1647, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0656, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0505, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0819, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1336, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0166, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0563, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 1 Summary:
+  Average reward: 0.5223
+  New best average reward: 0.5223 (Improvement)
+
+--- Episode 2/5 ---
+Generating margins: 100%|██████████| 7/7 [00:08<00:00,  1.15s/it]
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Donkey Kong Country Returns is a side-scrolling platformer video game developed by Retro Studios and published by Nintendo for the Wii console. The game was released first in North America in November 2010, and in PAL regions and Japan the following month. A stereoscopic port of the game, titled Donkey Kong Country Returns 3D, was released for the Nintendo 3DS in May 2013, and in Japan the following month. The 34th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA), honored the best in film for 2008. Pixar's animated film "WALL-E" won the Best Film award and became the first ever animated film to do so, however, the film lost the Best Animated Film award to "Waltz with Bashir". "Man! I Feel Like a Woman!" is a song recorded by Canadian singer-songwriter Shania Twain taken from her third studio album, "Come On Over" (1997).
+Margin: 
+Answer: The relevant information to answer the question is: "The Country Bears was released first in North America in November 2010, and in PAL regions and Japan the following month.
+Reward: 0.47863635420799255
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Written by Twain with her longtime collaborator and then-husband Robert John "Mutt" Lange, who also produced the track, the song was released first to North American country radio stations in March 1999 as the seventh single from the album, and later it was released worldwide in September 1999. "Man! I Feel Like a Woman!" is a country pop song with lyrics about female empowerment. John Otway & Wild Willy Barrett is the 1976 debut album by English folk singer-songwriter duo John Otway and Wild Willy Barrett. Released first on their own Extracked Records, the album is a collection of recordings made between 1971 and 1976. The Country Bears is a 2002 American family musical comedy film, directed by Peter Hastings, produced by Walt Disney Pictures, and based on the Disney theme park attraction "Country Bear Jamboree". The film stars Haley Joel Osment as the voice of Beary Barrington with supporting roles done by Christopher Walken, Stephen Tobolowsky, Daryl Mitchell, M.C.
+Margin: 
+Answer: The Country Bears was released first in 1976, while The Wild was released in 2002.
+
+The Country Bears was released first in 1976, while The Wild was
+Reward: 0.5227662324905396
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Gainey, Diedrich Bader, Alex Rocco, Meagen Fay, Eli Marienthal, and the voice talents of Diedrich Bader, Candy Ford, James Gammon, Brad Garrett, Toby Huss, Kevin Michael Richardson, and Stephen Root. Candy Ford (born May 1, 1975) is an American comedian and television actress, best known for starring in the sketch comedy, "The Rerun Show", Ford has also appeared in other TV programs including: "Curb Your Enthusiasm", "Will & Grace", and she provided voicework for the "Law & Order" videogame, and starred on the short-lived NBC sketch comedy, "The Rerun Show" and voiced Trixie in the film "The Country Bears" and later starred in "Girls Behaving Badly".
+Margin: 
+Answer: Based on the context, "The Wild" was released first, followed by "The Country Bears".
+
+The Country Bears was released first, followed by "The Wild".
+
+Based on the context, "The
+Reward: 0.5159090757369995
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Ogu and Mampato in Rapa Nui (Spanish: "Ogú y Mampato en Rapa Nui" ), also known as Mampato: The Movie (Spanish: "Mampato: La Película") is a feature-length Chilean animated film, created by Cine Animadores and executive produced by Elastic Studios, released June 27, 2002. Although the film isn't the first animated feature made in Chile, being the second after Alfredo Serey's 1921 film "La Trasmisión del Mando Presidencial" ("The Transmission of Presidential Control"), it is considered the country's first "modern" animated film. The movie is based on the Chilean comics character Mampato created in 1971 for the magazine of the same name by Themo Lobos and Eduardo Armstrong, and later reprinted as the comic-book Cucalón, the story for the film being adapted from the seventh adventure in the series: "Mata-ki-te-rangui".
+Margin: 
+The country where the film was released is Chile, and the film is "The Country Bears".
+Reward: 0.4841363728046417
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: The Wild is a 2006 American 3D computer animated comedy directed by animator Steve "Spaz" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin. It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton. Mickey's House of Villains (also known as House of Mouse: The Villains) is a 2002 direct-to-video animated film produced by The Walt Disney Company (Walt Disney Television Animation and Toon City Animation, with animation coordination by Walt Disney Feature Animation Florida. It is based on the Disney Channel animated television series "Disney's House of Mouse" and a sequel to the direct-to-video animated film "", starring Mickey Mouse, Donald Duck, Minnie Mouse, Goofy, Daisy Duck and Disney Villains that have appeared in past Disney productions. It was released on both VHS and DVD by Walt Disney Home Video on September 3, 2002.
+Margin: ..
+Answer: The Country Bears and The Wild were both animated films released in 2006..
+
+The Country Bears was released on November 20, 2006, and is a children
+Reward: 0.5176035165786743
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: It was followed by a 2004 direct-to-video animated film, "", produced by DisneyToon Studios, on August 17, 2004. Toys in the Attic (Czech: Na půdě aneb Kdo má dneska narozeniny? ; festival title: In the Attic: Who Has a Birthday Today?) is a 2009 Czech-French-Japanese-Slovak primarily stop-motion animated fantasy comedy thriller family film directed by Jiří Barta and written by Edgar Dutka and Barta which depicts a community of toys and other objects in an attic who come to life when no human is around. It is an international co-production of Czech, Japanese and Slovak companies. The film was released first in the Czech Republic on 5 March 2009 and has been shown subtitled at film festivals internationally.
+Margin: .. The Country Bears and The Wild are not related to each other. The Country Bears was released first in 2004, while The Wild was released in 2009...
+Answer: The Country
+Reward: 0.5259090662002563
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: An American dub – adapted, produced and directed by Vivian Schilling and performed by actors including Forest Whitaker, Joan Cusack, Cary Elwes and Schilling herself – has been recorded, which the film was first shown with on 3 March 2012 at the New York International Children's Film Festival and was released nationally on 24 August 2012 by Hannover House.
+Margin: 
+The query "Which animated film was released first, The Country Bears or The Wild?" does not provide enough context to extract the relevant information.
+Reward: 0.6370000243186951
+ppo epoch: 0
+outputs.loss tensor(0.1885, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0557, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0845, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0022, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.7920, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.8347, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0052, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.0295, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0098, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0968, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0023, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.5954, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3593, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0005, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.0055, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0014, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3933, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.3699e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1531, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0899, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.0024, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0114, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0774, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.6911e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1380, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0035, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.5820e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.0003, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0475, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1190, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.1591e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1543, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2474, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 2 Summary:
+  Average reward: 0.5260
+  New best average reward: 0.5260 (Improvement)
+
+--- Episode 3/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.12s/it]
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Donkey Kong Country Returns is a side-scrolling platformer video game developed by Retro Studios and published by Nintendo for the Wii console. The game was released first in North America in November 2010, and in PAL regions and Japan the following month. A stereoscopic port of the game, titled Donkey Kong Country Returns 3D, was released for the Nintendo 3DS in May 2013, and in Japan the following month. The 34th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA), honored the best in film for 2008. Pixar's animated film "WALL-E" won the Best Film award and became the first ever animated film to do so, however, the film lost the Best Animated Film award to "Waltz with Bashir". "Man! I Feel Like a Woman!" is a song recorded by Canadian singer-songwriter Shania Twain taken from her third studio album, "Come On Over" (1997).
+Margin: 
+Answer: The relevant information to answer the question is: "The Country Bears was released first in North America in November 2010, and in PAL regions and Japan the following month.
+Reward: 0.47863635420799255
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Written by Twain with her longtime collaborator and then-husband Robert John "Mutt" Lange, who also produced the track, the song was released first to North American country radio stations in March 1999 as the seventh single from the album, and later it was released worldwide in September 1999. "Man! I Feel Like a Woman!" is a country pop song with lyrics about female empowerment. John Otway & Wild Willy Barrett is the 1976 debut album by English folk singer-songwriter duo John Otway and Wild Willy Barrett. Released first on their own Extracked Records, the album is a collection of recordings made between 1971 and 1976. The Country Bears is a 2002 American family musical comedy film, directed by Peter Hastings, produced by Walt Disney Pictures, and based on the Disney theme park attraction "Country Bear Jamboree". The film stars Haley Joel Osment as the voice of Beary Barrington with supporting roles done by Christopher Walken, Stephen Tobolowsky, Daryl Mitchell, M.C.
+Margin: 
+Answer: The Country Bears was released first in 1976, while The Wild was released in 2002.
+
+The Country Bears was released first in 1976, while The Wild was
+Reward: 0.5227662324905396
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Gainey, Diedrich Bader, Alex Rocco, Meagen Fay, Eli Marienthal, and the voice talents of Diedrich Bader, Candy Ford, James Gammon, Brad Garrett, Toby Huss, Kevin Michael Richardson, and Stephen Root. Candy Ford (born May 1, 1975) is an American comedian and television actress, best known for starring in the sketch comedy, "The Rerun Show", Ford has also appeared in other TV programs including: "Curb Your Enthusiasm", "Will & Grace", and she provided voicework for the "Law & Order" videogame, and starred on the short-lived NBC sketch comedy, "The Rerun Show" and voiced Trixie in the film "The Country Bears" and later starred in "Girls Behaving Badly".
+Margin: 
+Answer: Based on the context, "The Wild" was released first, followed by "The Country Bears".
+
+The Country Bears was released first, followed by "The Wild".
+
+The Country Bears was released first
+Reward: 0.5273768305778503
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Ogu and Mampato in Rapa Nui (Spanish: "Ogú y Mampato en Rapa Nui" ), also known as Mampato: The Movie (Spanish: "Mampato: La Película") is a feature-length Chilean animated film, created by Cine Animadores and executive produced by Elastic Studios, released June 27, 2002. Although the film isn't the first animated feature made in Chile, being the second after Alfredo Serey's 1921 film "La Trasmisión del Mando Presidencial" ("The Transmission of Presidential Control"), it is considered the country's first "modern" animated film. The movie is based on the Chilean comics character Mampato created in 1971 for the magazine of the same name by Themo Lobos and Eduardo Armstrong, and later reprinted as the comic-book Cucalón, the story for the film being adapted from the seventh adventure in the series: "Mata-ki-te-rangui".
+Margin: 
+The country where the film was released is Chile, and the film is "The Country Bears".
+Reward: 0.4841363728046417
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: The Wild is a 2006 American 3D computer animated comedy directed by animator Steve "Spaz" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin. It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton. Mickey's House of Villains (also known as House of Mouse: The Villains) is a 2002 direct-to-video animated film produced by The Walt Disney Company (Walt Disney Television Animation and Toon City Animation, with animation coordination by Walt Disney Feature Animation Florida. It is based on the Disney Channel animated television series "Disney's House of Mouse" and a sequel to the direct-to-video animated film "", starring Mickey Mouse, Donald Duck, Minnie Mouse, Goofy, Daisy Duck and Disney Villains that have appeared in past Disney productions. It was released on both VHS and DVD by Walt Disney Home Video on September 3, 2002.
+Margin: ..
+Answer: The Country Bears and The Wild were both animated films released in 2006..
+
+The Country Bears was released on November 20, 2006..
+
+The Country Bears
+Reward: 0.5192937254905701
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: It was followed by a 2004 direct-to-video animated film, "", produced by DisneyToon Studios, on August 17, 2004. Toys in the Attic (Czech: Na půdě aneb Kdo má dneska narozeniny? ; festival title: In the Attic: Who Has a Birthday Today?) is a 2009 Czech-French-Japanese-Slovak primarily stop-motion animated fantasy comedy thriller family film directed by Jiří Barta and written by Edgar Dutka and Barta which depicts a community of toys and other objects in an attic who come to life when no human is around. It is an international co-production of Czech, Japanese and Slovak companies. The film was released first in the Czech Republic on 5 March 2009 and has been shown subtitled at film festivals internationally.
+Margin: .. The Country Bears and The Wild are not related to each other. The Country Bears was released first in 2004...
+Answer: The Country Bears and The Wild were not related to each other. The Country B
+Reward: 0.5443257689476013
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: An American dub – adapted, produced and directed by Vivian Schilling and performed by actors including Forest Whitaker, Joan Cusack, Cary Elwes and Schilling herself – has been recorded, which the film was first shown with on 3 March 2012 at the New York International Children's Film Festival and was released nationally on 24 August 2012 by Hannover House.
+Margin: 
+The query "Which animated film was released first, The Country Bears or The Wild?" does not provide enough context to extract the relevant information.
+Reward: 0.6370000243186951
+ppo epoch: 0
+outputs.loss tensor(0.0006, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0009, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0052, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0008, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1297, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1212, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.2119e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0006, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0200, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.8567e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0472, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1593, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.4799e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0009, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0102, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.6020e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1489, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1235, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.8725e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(4.9470e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0385, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0005, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.5582e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0028, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0483, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.2580e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(4.6515e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0011, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.5468e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0056, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0009, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.2510e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 3 Summary:
+  Average reward: 0.5305
+  New best average reward: 0.5305 (Improvement)
+
+--- Episode 4/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.13s/it]
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Donkey Kong Country Returns is a side-scrolling platformer video game developed by Retro Studios and published by Nintendo for the Wii console. The game was released first in North America in November 2010, and in PAL regions and Japan the following month. A stereoscopic port of the game, titled Donkey Kong Country Returns 3D, was released for the Nintendo 3DS in May 2013, and in Japan the following month. The 34th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA), honored the best in film for 2008. Pixar's animated film "WALL-E" won the Best Film award and became the first ever animated film to do so, however, the film lost the Best Animated Film award to "Waltz with Bashir". "Man! I Feel Like a Woman!" is a song recorded by Canadian singer-songwriter Shania Twain taken from her third studio album, "Come On Over" (1997).
+Margin: 
+Answer: The relevant information to answer the question is: "The Country Bears was released first in North America in November 2010, and in PAL regions and Japan the following month.
+Reward: 0.47863635420799255
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Written by Twain with her longtime collaborator and then-husband Robert John "Mutt" Lange, who also produced the track, the song was released first to North American country radio stations in March 1999 as the seventh single from the album, and later it was released worldwide in September 1999. "Man! I Feel Like a Woman!" is a country pop song with lyrics about female empowerment. John Otway & Wild Willy Barrett is the 1976 debut album by English folk singer-songwriter duo John Otway and Wild Willy Barrett. Released first on their own Extracked Records, the album is a collection of recordings made between 1971 and 1976. The Country Bears is a 2002 American family musical comedy film, directed by Peter Hastings, produced by Walt Disney Pictures, and based on the Disney theme park attraction "Country Bear Jamboree". The film stars Haley Joel Osment as the voice of Beary Barrington with supporting roles done by Christopher Walken, Stephen Tobolowsky, Daryl Mitchell, M.C.
+Margin: 
+Answer: The Country Bears was released first in 1976, while The Wild was released in 2002.
+
+The Country Bears was released first in 1976, while The Wild was
+Reward: 0.5227662324905396
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Gainey, Diedrich Bader, Alex Rocco, Meagen Fay, Eli Marienthal, and the voice talents of Diedrich Bader, Candy Ford, James Gammon, Brad Garrett, Toby Huss, Kevin Michael Richardson, and Stephen Root. Candy Ford (born May 1, 1975) is an American comedian and television actress, best known for starring in the sketch comedy, "The Rerun Show", Ford has also appeared in other TV programs including: "Curb Your Enthusiasm", "Will & Grace", and she provided voicework for the "Law & Order" videogame, and starred on the short-lived NBC sketch comedy, "The Rerun Show" and voiced Trixie in the film "The Country Bears" and later starred in "Girls Behaving Badly".
+Margin: 
+Answer: Based on the context, "The Wild" was released first, followed by "The Country Bears".
+
+The Country Bears was released first, followed by "The Wild".
+
+The Country Bears was released first
+Reward: 0.5273768305778503
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Ogu and Mampato in Rapa Nui (Spanish: "Ogú y Mampato en Rapa Nui" ), also known as Mampato: The Movie (Spanish: "Mampato: La Película") is a feature-length Chilean animated film, created by Cine Animadores and executive produced by Elastic Studios, released June 27, 2002. Although the film isn't the first animated feature made in Chile, being the second after Alfredo Serey's 1921 film "La Trasmisión del Mando Presidencial" ("The Transmission of Presidential Control"), it is considered the country's first "modern" animated film. The movie is based on the Chilean comics character Mampato created in 1971 for the magazine of the same name by Themo Lobos and Eduardo Armstrong, and later reprinted as the comic-book Cucalón, the story for the film being adapted from the seventh adventure in the series: "Mata-ki-te-rangui".
+Margin: 
+The country where the film was released is Chile, and the film is "The Country Bears".
+Reward: 0.4841363728046417
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: The Wild is a 2006 American 3D computer animated comedy directed by animator Steve "Spaz" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin. It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton. Mickey's House of Villains (also known as House of Mouse: The Villains) is a 2002 direct-to-video animated film produced by The Walt Disney Company (Walt Disney Television Animation and Toon City Animation, with animation coordination by Walt Disney Feature Animation Florida. It is based on the Disney Channel animated television series "Disney's House of Mouse" and a sequel to the direct-to-video animated film "", starring Mickey Mouse, Donald Duck, Minnie Mouse, Goofy, Daisy Duck and Disney Villains that have appeared in past Disney productions. It was released on both VHS and DVD by Walt Disney Home Video on September 3, 2002.
+Margin: ..
+Answer: The Country Bears and The Wild were both animated films released in 2006..
+
+The Country Bears was released on November 20, 2006..
+
+The Country Bears
+Reward: 0.5192937254905701
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: It was followed by a 2004 direct-to-video animated film, "", produced by DisneyToon Studios, on August 17, 2004. Toys in the Attic (Czech: Na půdě aneb Kdo má dneska narozeniny? ; festival title: In the Attic: Who Has a Birthday Today?) is a 2009 Czech-French-Japanese-Slovak primarily stop-motion animated fantasy comedy thriller family film directed by Jiří Barta and written by Edgar Dutka and Barta which depicts a community of toys and other objects in an attic who come to life when no human is around. It is an international co-production of Czech, Japanese and Slovak companies. The film was released first in the Czech Republic on 5 March 2009 and has been shown subtitled at film festivals internationally.
+Margin: .. The Country Bears and The Wild are not related to each other. The Country Bears was released first in 2004...
+Answer: The Country Bears and The Wild were not related to each other. The Country B
+Reward: 0.5443257689476013
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: An American dub – adapted, produced and directed by Vivian Schilling and performed by actors including Forest Whitaker, Joan Cusack, Cary Elwes and Schilling herself – has been recorded, which the film was first shown with on 3 March 2012 at the New York International Children's Film Festival and was released nationally on 24 August 2012 by Hannover House.
+Margin: 
+The query "Which animated film was released first, The Country Bears or The Wild?" does not provide enough context to extract the relevant information.
+Reward: 0.6370000243186951
+ppo epoch: 0
+outputs.loss tensor(4.2629e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.0913e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.7524e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2800e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0006, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.6201e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(1.6029e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.9418e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2732e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0004, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.5275e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(1.3506e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.8914e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.0406e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1614e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0003, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.3213e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(1.2431e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.0229e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.3933e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1722e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.8591e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.2736e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(1.1943e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.5920e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.2384e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2091e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.0456e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.2927e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 4 Summary:
+  Average reward: 0.5305
+  No improvement in average reward for 1 episode(s).
+
+--- Episode 5/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.13s/it]
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Donkey Kong Country Returns is a side-scrolling platformer video game developed by Retro Studios and published by Nintendo for the Wii console. The game was released first in North America in November 2010, and in PAL regions and Japan the following month. A stereoscopic port of the game, titled Donkey Kong Country Returns 3D, was released for the Nintendo 3DS in May 2013, and in Japan the following month. The 34th Los Angeles Film Critics Association Awards, given by the Los Angeles Film Critics Association (LAFCA), honored the best in film for 2008. Pixar's animated film "WALL-E" won the Best Film award and became the first ever animated film to do so, however, the film lost the Best Animated Film award to "Waltz with Bashir". "Man! I Feel Like a Woman!" is a song recorded by Canadian singer-songwriter Shania Twain taken from her third studio album, "Come On Over" (1997).
+Margin: 
+Answer: The relevant information to answer the question is: "The Country Bears was released first in North America in November 2010, and in PAL regions and Japan the following month.
+Reward: 0.47863635420799255
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Written by Twain with her longtime collaborator and then-husband Robert John "Mutt" Lange, who also produced the track, the song was released first to North American country radio stations in March 1999 as the seventh single from the album, and later it was released worldwide in September 1999. "Man! I Feel Like a Woman!" is a country pop song with lyrics about female empowerment. John Otway & Wild Willy Barrett is the 1976 debut album by English folk singer-songwriter duo John Otway and Wild Willy Barrett. Released first on their own Extracked Records, the album is a collection of recordings made between 1971 and 1976. The Country Bears is a 2002 American family musical comedy film, directed by Peter Hastings, produced by Walt Disney Pictures, and based on the Disney theme park attraction "Country Bear Jamboree". The film stars Haley Joel Osment as the voice of Beary Barrington with supporting roles done by Christopher Walken, Stephen Tobolowsky, Daryl Mitchell, M.C.
+Margin: 
+Answer: The Country Bears was released first in 1976, while The Wild was released in 2002.
+
+The Country Bears was released first in 1976, while The Wild was
+Reward: 0.5227662324905396
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Gainey, Diedrich Bader, Alex Rocco, Meagen Fay, Eli Marienthal, and the voice talents of Diedrich Bader, Candy Ford, James Gammon, Brad Garrett, Toby Huss, Kevin Michael Richardson, and Stephen Root. Candy Ford (born May 1, 1975) is an American comedian and television actress, best known for starring in the sketch comedy, "The Rerun Show", Ford has also appeared in other TV programs including: "Curb Your Enthusiasm", "Will & Grace", and she provided voicework for the "Law & Order" videogame, and starred on the short-lived NBC sketch comedy, "The Rerun Show" and voiced Trixie in the film "The Country Bears" and later starred in "Girls Behaving Badly".
+Margin: 
+Answer: Based on the context, "The Wild" was released first, followed by "The Country Bears".
+
+The Country Bears was released first, followed by "The Wild".
+
+The Country Bears was released first
+Reward: 0.5273768305778503
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: Ogu and Mampato in Rapa Nui (Spanish: "Ogú y Mampato en Rapa Nui" ), also known as Mampato: The Movie (Spanish: "Mampato: La Película") is a feature-length Chilean animated film, created by Cine Animadores and executive produced by Elastic Studios, released June 27, 2002. Although the film isn't the first animated feature made in Chile, being the second after Alfredo Serey's 1921 film "La Trasmisión del Mando Presidencial" ("The Transmission of Presidential Control"), it is considered the country's first "modern" animated film. The movie is based on the Chilean comics character Mampato created in 1971 for the magazine of the same name by Themo Lobos and Eduardo Armstrong, and later reprinted as the comic-book Cucalón, the story for the film being adapted from the seventh adventure in the series: "Mata-ki-te-rangui".
+Margin: 
+The country where the film was released is Chile, and the film is "The Country Bears".
+Reward: 0.4841363728046417
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: The Wild is a 2006 American 3D computer animated comedy directed by animator Steve "Spaz" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin. It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton. Mickey's House of Villains (also known as House of Mouse: The Villains) is a 2002 direct-to-video animated film produced by The Walt Disney Company (Walt Disney Television Animation and Toon City Animation, with animation coordination by Walt Disney Feature Animation Florida. It is based on the Disney Channel animated television series "Disney's House of Mouse" and a sequel to the direct-to-video animated film "", starring Mickey Mouse, Donald Duck, Minnie Mouse, Goofy, Daisy Duck and Disney Villains that have appeared in past Disney productions. It was released on both VHS and DVD by Walt Disney Home Video on September 3, 2002.
+Margin: ..
+Answer: The Country Bears and The Wild were both animated films released in 2006..
+
+The Country Bears was released on November 20, 2006..
+
+The Country Bears
+Reward: 0.5192937254905701
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: It was followed by a 2004 direct-to-video animated film, "", produced by DisneyToon Studios, on August 17, 2004. Toys in the Attic (Czech: Na půdě aneb Kdo má dneska narozeniny? ; festival title: In the Attic: Who Has a Birthday Today?) is a 2009 Czech-French-Japanese-Slovak primarily stop-motion animated fantasy comedy thriller family film directed by Jiří Barta and written by Edgar Dutka and Barta which depicts a community of toys and other objects in an attic who come to life when no human is around. It is an international co-production of Czech, Japanese and Slovak companies. The film was released first in the Czech Republic on 5 March 2009 and has been shown subtitled at film festivals internationally.
+Margin: .. The Country Bears and The Wild are not related to each other. The Country Bears was released first in 2004...
+Answer: The Country Bears and The Wild were not related to each other. The Country B
+Reward: 0.5443257689476013
+Query: Which animated film was released first, The Country Bears or The Wild?
+Segment: An American dub – adapted, produced and directed by Vivian Schilling and performed by actors including Forest Whitaker, Joan Cusack, Cary Elwes and Schilling herself – has been recorded, which the film was first shown with on 3 March 2012 at the New York International Children's Film Festival and was released nationally on 24 August 2012 by Hannover House.
+Margin: 
+The query "Which animated film was released first, The Country Bears or The Wild?" does not provide enough context to extract the relevant information.
+Reward: 0.6370000243186951
+ppo epoch: 0
+outputs.loss tensor(1.1527e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.3055e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.0130e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1319e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.6090e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.2232e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(1.1405e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.0824e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.8073e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0706e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.3898e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.2363e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(1.1083e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.8331e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.5838e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0467e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.0605e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.1254e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(1.1169e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.6760e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.4339e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0706e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.5796e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.1135e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(1.1131e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.6441e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.3569e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0286e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.3667e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(2.0742e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 5 Summary:
+  Average reward: 0.5305
+  No improvement in average reward for 2 episode(s).
+Training finished.
+
+--- Episode 1/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.10s/it]
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: USS "New Jersey" (BB-62) ("Big J" or "Black Dragon") is an "Iowa"-class battleship , and was the second ship of the United States Navy to be named after the US state of New Jersey. "New Jersey" earned more battle stars for combat actions than the other three completed "Iowa"-class battleships, and was the only US battleship providing gunfire support during the Vietnam War. Operation Market Time was the United States Navy and South Vietnam’s successful effort begun in 1965 to stop the flow of troops, war material, and supplies by sea, coast, and rivers, from North Vietnam into parts of South Vietnam during the Vietnam War. Also participating in Operation Market Time were United States Coast Guard Squadron One and Squadron Three. The Coast Guard provided heavily armed 82 ft patrol boats and large cutters that included 5" cannons used in battle and gunfire support. USS "Trippe" (FF-1075) was a "Knox"-class frigate of the US Navy, built at Westwego, Louisiana, was commissioned in mid-September 1970.
+Margin: 
+Answer: The United States Navy and South Vietnam were both involved in the Vietnam War, and were both battleships.
+
+The United States Navy was commissioned in mid-September 1970.
+
+The United States
+Reward: 0.4329642951488495
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: In July 1971, following shakedown training in the Caribbean area and a surveillance mission off Haiti, she entered the Boston Naval Shipyard for overhaul and installation of the Basic Point Defense Missile System, which featured short-range "Sea Sparrow" guided missiles in an eight-round launcher on her afterdeck. "Trippe" was the Navy's first destroyer-type ship to receive this later-widespread contribution to shipboard protection against air and missile attack. The first months of 1972 were spent testing her new weapons and participating in exercises. In June the ship passed through the Panama Canal en route to Southeast Asian waters, where she provided Vietnam War aircraft carrier escort and naval gunfire support services during July and August. "Trippe" then went to the Indian Ocean and Persian Gulf areas, visiting many ports in a region that would see increasing U.S. Navy activity in the coming decades. She returned to the U.S. East Coast in December 1972, after a deployment that had taken her completely around the World. Rear Adm. J. Edward Snyder, USN (Ret.)
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Rear Adm. J. Edward Snyder, USN (Ret.).
+
+The
+Reward: 0.6207733750343323
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: (October 23, 1924 – November 4, 2007) was notable as the captain of the battleship USS "New Jersey" during that ship's deployment to the Vietnam War in 1968. Considered by those serving on the "New Jersey" to be a "sailor's captain," Captain Snyder was able to motivate his men through his more relaxed shipboard policies. The United States naval gunfire support debate is an ongoing debate among the United States Navy, Marine Corps, Congress, and independent groups like the "United States Naval Gunfire Support Association" over what role naval gunfire support and naval surface fire support (NSFS) should play within the navy and how such a role can best be provided. At the heart of the issue is the role that naval gunfire support—the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range—should play in the U.S. Navy of the 21st century.
+Margin: 
+Answer: The United States Navy and Marine Corps were both involved in the Vietnam War and have been in the Navy and Marine Corps since 1964.
+Reward: 0.404208779335022
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Naval gunfire support (NGFS) (also known as shore bombardment) is the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range. NGFS is one of a number of disciplines encompassed by the term "Naval Fires". Modern naval gunfire support is one of the three main components of amphibious warfare assault operations support, along with aircraft and ship-launched land-attack missiles. Shipborne guns have been used against shore defences since the early days of naval warfare. Tonkin Gulf Yacht Club was a tongue-in-cheek nickname for the United States Seventh Fleet during the Vietnam War. All through the war in Vietnam, the Seventh Fleet engaged in combat operations against enemy forces through attack carrier air strikes, naval gunfire support, amphibious operations, patrol and reconnaissance operations and mine warfare. Starting in the 1890s, the Italian "Regia Marina" (Royal Navy) began building a series of modern battleships. Early designs were marked by their small size, light armor, and high speed compared to contemporary foreign counterparts.
+Margin: 
+Answer: The relevant information to answer the question is: "The Vietnam War was fought by the Italian "Regia Marina" (Royal Navy) in 1890...
+
+The relevant information to answer the question is:
+Reward: 0.4145783483982086
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: The first pre-dreadnought battleship design, the "Ammiraglio di Saint Bon" class , was constrained by budgetary limits imposed by the legislature. Two ships were ordered by the class's namesake, Admiral Simone de Pacoret Saint Bon, though the design was also influenced by Benedetto Brin, who replaced di Saint Bon as naval minister after his death. Brin designed the next pair of battleships, the "Regina Margherita" class . These ships were larger than the preceding class, and were intended to challenge the Austro-Hungarian "Habsburg"-class battleship s then under construction. Brin himself died during the construction process. Vittorio Cuniberti designed the next class of small pre-dreadnoughts, the "Regina Elena" class , which were the fastest battleships in the world at the time of their completion.
+Margin: 
+Answer: The relevant information to answer the question is: "The Vietnam War was fought between the Republic of Vietnam and the Kingdom of France.
+Reward: 0.4405714273452759
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: These ships all served in the Italo-Turkish War of 1911–12, where they were primarily used to provide naval gunfire support for the Italian ground troops, as the Ottoman Navy largely confined itself to port. Kirov (Russian: Киров ; ] ) was a Project 26 "Kirov"-class cruiser of the Soviet Navy that served during the Winter War, World War II and into the Cold War. She attempted to bombard Finnish coast defense guns during action in the Winter War, but was driven off by a number of near misses that damaged her. She led the Evacuation of Tallinn at the end of August 1941, before being blockaded in Leningrad where she could only provide gunfire support during the Siege of Leningrad. She bombarded Finnish positions during the Vyborg–Petrozavodsk Offensive in mid-1944, but played no further part in the war. "Kirov" was reclassified as a training cruiser on 2 August 1961 and sold for scrap on 22 February 1974.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Kirov.
+Reward: 0.5930714011192322
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Jean Bart was the second ship of the "Courbet"-class battleship s, the first dreadnoughts built for the French Navy. She was completed before World War I as part of the 1910 naval building programme. She spent the war in the Mediterranean and helped to sink the Austro-Hungarian protected cruiser "Zenta" on 16 August 1914. She spent most of the rest of 1914 providing gunfire support for the Montenegrin Army until she was torpedoed by the submarine "U-12" on 21 December. Even with three compartments flooded, she was able to steam to Malta on her own for repairs that required three and a half months. Upon her return she spent the remainder of the war participating in the Otranto Barrage, in the Adriatic.
+Margin: 
+Answer: The relevant information to answer the question is: "The captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+ppo epoch: 0
+outputs.loss tensor(0.2466, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0904, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.5757, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.6264, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.8905, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1752, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1403, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.4327, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0841, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2417, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3377, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3214, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0781, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3813, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.5565, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2095, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1926, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.3039, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.7615, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0267, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.4410, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.2088, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0694, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1683, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2415, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.4411, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0068, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.6420, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.0611, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0303, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0735, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.1608, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.4242, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0078, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.2675, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 1 Summary:
+  Average reward: 0.5002
+  New best average reward: 0.5002 (Improvement)
+
+--- Episode 2/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.14s/it]
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: USS "New Jersey" (BB-62) ("Big J" or "Black Dragon") is an "Iowa"-class battleship , and was the second ship of the United States Navy to be named after the US state of New Jersey. "New Jersey" earned more battle stars for combat actions than the other three completed "Iowa"-class battleships, and was the only US battleship providing gunfire support during the Vietnam War. Operation Market Time was the United States Navy and South Vietnam’s successful effort begun in 1965 to stop the flow of troops, war material, and supplies by sea, coast, and rivers, from North Vietnam into parts of South Vietnam during the Vietnam War. Also participating in Operation Market Time were United States Coast Guard Squadron One and Squadron Three. The Coast Guard provided heavily armed 82 ft patrol boats and large cutters that included 5" cannons used in battle and gunfire support. USS "Trippe" (FF-1075) was a "Knox"-class frigate of the US Navy, built at Westwego, Louisiana, was commissioned in mid-September 1970.
+Margin: 
+Answer: The United States Navy and South Vietnam were both involved in the Vietnam War, and were both battleships.
+Reward: 0.4079962372779846
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: In July 1971, following shakedown training in the Caribbean area and a surveillance mission off Haiti, she entered the Boston Naval Shipyard for overhaul and installation of the Basic Point Defense Missile System, which featured short-range "Sea Sparrow" guided missiles in an eight-round launcher on her afterdeck. "Trippe" was the Navy's first destroyer-type ship to receive this later-widespread contribution to shipboard protection against air and missile attack. The first months of 1972 were spent testing her new weapons and participating in exercises. In June the ship passed through the Panama Canal en route to Southeast Asian waters, where she provided Vietnam War aircraft carrier escort and naval gunfire support services during July and August. "Trippe" then went to the Indian Ocean and Persian Gulf areas, visiting many ports in a region that would see increasing U.S. Navy activity in the coming decades. She returned to the U.S. East Coast in December 1972, after a deployment that had taken her completely around the World. Rear Adm. J. Edward Snyder, USN (Ret.)
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Rear Admiler.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: (October 23, 1924 – November 4, 2007) was notable as the captain of the battleship USS "New Jersey" during that ship's deployment to the Vietnam War in 1968. Considered by those serving on the "New Jersey" to be a "sailor's captain," Captain Snyder was able to motivate his men through his more relaxed shipboard policies. The United States naval gunfire support debate is an ongoing debate among the United States Navy, Marine Corps, Congress, and independent groups like the "United States Naval Gunfire Support Association" over what role naval gunfire support and naval surface fire support (NSFS) should play within the navy and how such a role can best be provided. At the heart of the issue is the role that naval gunfire support—the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range—should play in the U.S. Navy of the 21st century.
+Margin: 
+Answer: The United States Navy and Marine Corps were both involved in the Vietnam War and have been in the Navy and Marine Corps since 1964.
+Reward: 0.404208779335022
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Naval gunfire support (NGFS) (also known as shore bombardment) is the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range. NGFS is one of a number of disciplines encompassed by the term "Naval Fires". Modern naval gunfire support is one of the three main components of amphibious warfare assault operations support, along with aircraft and ship-launched land-attack missiles. Shipborne guns have been used against shore defences since the early days of naval warfare. Tonkin Gulf Yacht Club was a tongue-in-cheek nickname for the United States Seventh Fleet during the Vietnam War. All through the war in Vietnam, the Seventh Fleet engaged in combat operations against enemy forces through attack carrier air strikes, naval gunfire support, amphibious operations, patrol and reconnaissance operations and mine warfare. Starting in the 1890s, the Italian "Regia Marina" (Royal Navy) began building a series of modern battleships. Early designs were marked by their small size, light armor, and high speed compared to contemporary foreign counterparts.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: The first pre-dreadnought battleship design, the "Ammiraglio di Saint Bon" class , was constrained by budgetary limits imposed by the legislature. Two ships were ordered by the class's namesake, Admiral Simone de Pacoret Saint Bon, though the design was also influenced by Benedetto Brin, who replaced di Saint Bon as naval minister after his death. Brin designed the next pair of battleships, the "Regina Margherita" class . These ships were larger than the preceding class, and were intended to challenge the Austro-Hungarian "Habsburg"-class battleship s then under construction. Brin himself died during the construction process. Vittorio Cuniberti designed the next class of small pre-dreadnoughts, the "Regina Elena" class , which were the fastest battleships in the world at the time of their completion.
+Margin: 
+Answer: The relevant information to answer the question is: "The Vietnam War was fought between the Republic of Vietnam and the Kingdom of France.
+Reward: 0.4405714273452759
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: These ships all served in the Italo-Turkish War of 1911–12, where they were primarily used to provide naval gunfire support for the Italian ground troops, as the Ottoman Navy largely confined itself to port. Kirov (Russian: Киров ; ] ) was a Project 26 "Kirov"-class cruiser of the Soviet Navy that served during the Winter War, World War II and into the Cold War. She attempted to bombard Finnish coast defense guns during action in the Winter War, but was driven off by a number of near misses that damaged her. She led the Evacuation of Tallinn at the end of August 1941, before being blockaded in Leningrad where she could only provide gunfire support during the Siege of Leningrad. She bombarded Finnish positions during the Vyborg–Petrozavodsk Offensive in mid-1944, but played no further part in the war. "Kirov" was reclassified as a training cruiser on 2 August 1961 and sold for scrap on 22 February 1974.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Kirov.
+Reward: 0.5930714011192322
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Jean Bart was the second ship of the "Courbet"-class battleship s, the first dreadnoughts built for the French Navy. She was completed before World War I as part of the 1910 naval building programme. She spent the war in the Mediterranean and helped to sink the Austro-Hungarian protected cruiser "Zenta" on 16 August 1914. She spent most of the rest of 1914 providing gunfire support for the Montenegrin Army until she was torpedoed by the submarine "U-12" on 21 December. Even with three compartments flooded, she was able to steam to Malta on her own for repairs that required three and a half months. Upon her return she spent the remainder of the war participating in the Otranto Barrage, in the Adriatic.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+ppo epoch: 0
+outputs.loss tensor(0.0057, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0927, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0246, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0295, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0441, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0194, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.0034, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0050, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0021, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0053, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0044, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.4304e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0007, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.0004, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0288, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0004, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0004, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0018, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.8640e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0003, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.0003, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0013, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0006, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.8296e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.9170e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.7602e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.6136e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0004, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.3988e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.9545e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 2 Summary:
+  Average reward: 0.5189
+  New best average reward: 0.5189 (Improvement)
+
+--- Episode 3/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.13s/it]
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: USS "New Jersey" (BB-62) ("Big J" or "Black Dragon") is an "Iowa"-class battleship , and was the second ship of the United States Navy to be named after the US state of New Jersey. "New Jersey" earned more battle stars for combat actions than the other three completed "Iowa"-class battleships, and was the only US battleship providing gunfire support during the Vietnam War. Operation Market Time was the United States Navy and South Vietnam’s successful effort begun in 1965 to stop the flow of troops, war material, and supplies by sea, coast, and rivers, from North Vietnam into parts of South Vietnam during the Vietnam War. Also participating in Operation Market Time were United States Coast Guard Squadron One and Squadron Three. The Coast Guard provided heavily armed 82 ft patrol boats and large cutters that included 5" cannons used in battle and gunfire support. USS "Trippe" (FF-1075) was a "Knox"-class frigate of the US Navy, built at Westwego, Louisiana, was commissioned in mid-September 1970.
+Margin: 
+Answer: The United States Navy and South Vietnam were both involved in the Vietnam War, and were both battleships.
+Reward: 0.4079962372779846
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: In July 1971, following shakedown training in the Caribbean area and a surveillance mission off Haiti, she entered the Boston Naval Shipyard for overhaul and installation of the Basic Point Defense Missile System, which featured short-range "Sea Sparrow" guided missiles in an eight-round launcher on her afterdeck. "Trippe" was the Navy's first destroyer-type ship to receive this later-widespread contribution to shipboard protection against air and missile attack. The first months of 1972 were spent testing her new weapons and participating in exercises. In June the ship passed through the Panama Canal en route to Southeast Asian waters, where she provided Vietnam War aircraft carrier escort and naval gunfire support services during July and August. "Trippe" then went to the Indian Ocean and Persian Gulf areas, visiting many ports in a region that would see increasing U.S. Navy activity in the coming decades. She returned to the U.S. East Coast in December 1972, after a deployment that had taken her completely around the World. Rear Adm. J. Edward Snyder, USN (Ret.)
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Rear Admiler.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: (October 23, 1924 – November 4, 2007) was notable as the captain of the battleship USS "New Jersey" during that ship's deployment to the Vietnam War in 1968. Considered by those serving on the "New Jersey" to be a "sailor's captain," Captain Snyder was able to motivate his men through his more relaxed shipboard policies. The United States naval gunfire support debate is an ongoing debate among the United States Navy, Marine Corps, Congress, and independent groups like the "United States Naval Gunfire Support Association" over what role naval gunfire support and naval surface fire support (NSFS) should play within the navy and how such a role can best be provided. At the heart of the issue is the role that naval gunfire support—the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range—should play in the U.S. Navy of the 21st century.
+Margin: 
+Answer: The United States Navy and Marine Corps were both involved in the Vietnam War and have been in the Navy and Marine Corps since 1964.
+Reward: 0.404208779335022
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Naval gunfire support (NGFS) (also known as shore bombardment) is the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range. NGFS is one of a number of disciplines encompassed by the term "Naval Fires". Modern naval gunfire support is one of the three main components of amphibious warfare assault operations support, along with aircraft and ship-launched land-attack missiles. Shipborne guns have been used against shore defences since the early days of naval warfare. Tonkin Gulf Yacht Club was a tongue-in-cheek nickname for the United States Seventh Fleet during the Vietnam War. All through the war in Vietnam, the Seventh Fleet engaged in combat operations against enemy forces through attack carrier air strikes, naval gunfire support, amphibious operations, patrol and reconnaissance operations and mine warfare. Starting in the 1890s, the Italian "Regia Marina" (Royal Navy) began building a series of modern battleships. Early designs were marked by their small size, light armor, and high speed compared to contemporary foreign counterparts.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: The first pre-dreadnought battleship design, the "Ammiraglio di Saint Bon" class , was constrained by budgetary limits imposed by the legislature. Two ships were ordered by the class's namesake, Admiral Simone de Pacoret Saint Bon, though the design was also influenced by Benedetto Brin, who replaced di Saint Bon as naval minister after his death. Brin designed the next pair of battleships, the "Regina Margherita" class . These ships were larger than the preceding class, and were intended to challenge the Austro-Hungarian "Habsburg"-class battleship s then under construction. Brin himself died during the construction process. Vittorio Cuniberti designed the next class of small pre-dreadnoughts, the "Regina Elena" class , which were the fastest battleships in the world at the time of their completion.
+Margin: 
+Answer: The relevant information to answer the question is: "The Vietnam War was fought between the Republic of Vietnam and the Kingdom of France.
+Reward: 0.4405714273452759
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: These ships all served in the Italo-Turkish War of 1911–12, where they were primarily used to provide naval gunfire support for the Italian ground troops, as the Ottoman Navy largely confined itself to port. Kirov (Russian: Киров ; ] ) was a Project 26 "Kirov"-class cruiser of the Soviet Navy that served during the Winter War, World War II and into the Cold War. She attempted to bombard Finnish coast defense guns during action in the Winter War, but was driven off by a number of near misses that damaged her. She led the Evacuation of Tallinn at the end of August 1941, before being blockaded in Leningrad where she could only provide gunfire support during the Siege of Leningrad. She bombarded Finnish positions during the Vyborg–Petrozavodsk Offensive in mid-1944, but played no further part in the war. "Kirov" was reclassified as a training cruiser on 2 August 1961 and sold for scrap on 22 February 1974.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Kirov.
+Reward: 0.5930714011192322
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Jean Bart was the second ship of the "Courbet"-class battleship s, the first dreadnoughts built for the French Navy. She was completed before World War I as part of the 1910 naval building programme. She spent the war in the Mediterranean and helped to sink the Austro-Hungarian protected cruiser "Zenta" on 16 August 1914. She spent most of the rest of 1914 providing gunfire support for the Montenegrin Army until she was torpedoed by the submarine "U-12" on 21 December. Even with three compartments flooded, she was able to steam to Malta on her own for repairs that required three and a half months. Upon her return she spent the remainder of the war participating in the Otranto Barrage, in the Adriatic.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+ppo epoch: 0
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.5463e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.5774e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0003, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2673e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.3975e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.6770e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(8.2332e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0003, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2721e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.9625e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.2879e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.7869e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2152e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.8727e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.2313e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.6789e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2360e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.6291e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.6796e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.6652e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2282e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.6357e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 3 Summary:
+  Average reward: 0.5189
+  No improvement in average reward for 1 episode(s).
+
+--- Episode 4/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.12s/it]
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: USS "New Jersey" (BB-62) ("Big J" or "Black Dragon") is an "Iowa"-class battleship , and was the second ship of the United States Navy to be named after the US state of New Jersey. "New Jersey" earned more battle stars for combat actions than the other three completed "Iowa"-class battleships, and was the only US battleship providing gunfire support during the Vietnam War. Operation Market Time was the United States Navy and South Vietnam’s successful effort begun in 1965 to stop the flow of troops, war material, and supplies by sea, coast, and rivers, from North Vietnam into parts of South Vietnam during the Vietnam War. Also participating in Operation Market Time were United States Coast Guard Squadron One and Squadron Three. The Coast Guard provided heavily armed 82 ft patrol boats and large cutters that included 5" cannons used in battle and gunfire support. USS "Trippe" (FF-1075) was a "Knox"-class frigate of the US Navy, built at Westwego, Louisiana, was commissioned in mid-September 1970.
+Margin: 
+Answer: The United States Navy and South Vietnam were both involved in the Vietnam War, and were both battleships.
+Reward: 0.4079962372779846
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: In July 1971, following shakedown training in the Caribbean area and a surveillance mission off Haiti, she entered the Boston Naval Shipyard for overhaul and installation of the Basic Point Defense Missile System, which featured short-range "Sea Sparrow" guided missiles in an eight-round launcher on her afterdeck. "Trippe" was the Navy's first destroyer-type ship to receive this later-widespread contribution to shipboard protection against air and missile attack. The first months of 1972 were spent testing her new weapons and participating in exercises. In June the ship passed through the Panama Canal en route to Southeast Asian waters, where she provided Vietnam War aircraft carrier escort and naval gunfire support services during July and August. "Trippe" then went to the Indian Ocean and Persian Gulf areas, visiting many ports in a region that would see increasing U.S. Navy activity in the coming decades. She returned to the U.S. East Coast in December 1972, after a deployment that had taken her completely around the World. Rear Adm. J. Edward Snyder, USN (Ret.)
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Rear Admiler.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: (October 23, 1924 – November 4, 2007) was notable as the captain of the battleship USS "New Jersey" during that ship's deployment to the Vietnam War in 1968. Considered by those serving on the "New Jersey" to be a "sailor's captain," Captain Snyder was able to motivate his men through his more relaxed shipboard policies. The United States naval gunfire support debate is an ongoing debate among the United States Navy, Marine Corps, Congress, and independent groups like the "United States Naval Gunfire Support Association" over what role naval gunfire support and naval surface fire support (NSFS) should play within the navy and how such a role can best be provided. At the heart of the issue is the role that naval gunfire support—the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range—should play in the U.S. Navy of the 21st century.
+Margin: 
+Answer: The United States Navy and Marine Corps were both involved in the Vietnam War and have been in the Navy and Marine Corps since 1964.
+Reward: 0.404208779335022
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Naval gunfire support (NGFS) (also known as shore bombardment) is the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range. NGFS is one of a number of disciplines encompassed by the term "Naval Fires". Modern naval gunfire support is one of the three main components of amphibious warfare assault operations support, along with aircraft and ship-launched land-attack missiles. Shipborne guns have been used against shore defences since the early days of naval warfare. Tonkin Gulf Yacht Club was a tongue-in-cheek nickname for the United States Seventh Fleet during the Vietnam War. All through the war in Vietnam, the Seventh Fleet engaged in combat operations against enemy forces through attack carrier air strikes, naval gunfire support, amphibious operations, patrol and reconnaissance operations and mine warfare. Starting in the 1890s, the Italian "Regia Marina" (Royal Navy) began building a series of modern battleships. Early designs were marked by their small size, light armor, and high speed compared to contemporary foreign counterparts.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: The first pre-dreadnought battleship design, the "Ammiraglio di Saint Bon" class , was constrained by budgetary limits imposed by the legislature. Two ships were ordered by the class's namesake, Admiral Simone de Pacoret Saint Bon, though the design was also influenced by Benedetto Brin, who replaced di Saint Bon as naval minister after his death. Brin designed the next pair of battleships, the "Regina Margherita" class . These ships were larger than the preceding class, and were intended to challenge the Austro-Hungarian "Habsburg"-class battleship s then under construction. Brin himself died during the construction process. Vittorio Cuniberti designed the next class of small pre-dreadnoughts, the "Regina Elena" class , which were the fastest battleships in the world at the time of their completion.
+Margin: 
+Answer: The relevant information to answer the question is: "The Vietnam War was fought between the Republic of Vietnam and the Kingdom of France.
+Reward: 0.4405714273452759
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: These ships all served in the Italo-Turkish War of 1911–12, where they were primarily used to provide naval gunfire support for the Italian ground troops, as the Ottoman Navy largely confined itself to port. Kirov (Russian: Киров ; ] ) was a Project 26 "Kirov"-class cruiser of the Soviet Navy that served during the Winter War, World War II and into the Cold War. She attempted to bombard Finnish coast defense guns during action in the Winter War, but was driven off by a number of near misses that damaged her. She led the Evacuation of Tallinn at the end of August 1941, before being blockaded in Leningrad where she could only provide gunfire support during the Siege of Leningrad. She bombarded Finnish positions during the Vyborg–Petrozavodsk Offensive in mid-1944, but played no further part in the war. "Kirov" was reclassified as a training cruiser on 2 August 1961 and sold for scrap on 22 February 1974.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Kirov.
+Reward: 0.5930714011192322
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Jean Bart was the second ship of the "Courbet"-class battleship s, the first dreadnoughts built for the French Navy. She was completed before World War I as part of the 1910 naval building programme. She spent the war in the Mediterranean and helped to sink the Austro-Hungarian protected cruiser "Zenta" on 16 August 1914. She spent most of the rest of 1914 providing gunfire support for the Montenegrin Army until she was torpedoed by the submarine "U-12" on 21 December. Even with three compartments flooded, she was able to steam to Malta on her own for repairs that required three and a half months. Upon her return she spent the remainder of the war participating in the Otranto Barrage, in the Adriatic.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+ppo epoch: 0
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.6402e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.4784e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.2013e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.5856e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.3638e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.4675e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1774e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.4776e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.4638e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.4135e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1607e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.3521e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.0689e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.6313e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.1033e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0868e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.2571e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.1265e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.4912e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.0844e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1383e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.1383e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 4 Summary:
+  Average reward: 0.5189
+  No improvement in average reward for 2 episode(s).
+
+--- Episode 5/5 ---
+Generating margins: 100%|██████████| 7/7 [00:07<00:00,  1.12s/it]
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: USS "New Jersey" (BB-62) ("Big J" or "Black Dragon") is an "Iowa"-class battleship , and was the second ship of the United States Navy to be named after the US state of New Jersey. "New Jersey" earned more battle stars for combat actions than the other three completed "Iowa"-class battleships, and was the only US battleship providing gunfire support during the Vietnam War. Operation Market Time was the United States Navy and South Vietnam’s successful effort begun in 1965 to stop the flow of troops, war material, and supplies by sea, coast, and rivers, from North Vietnam into parts of South Vietnam during the Vietnam War. Also participating in Operation Market Time were United States Coast Guard Squadron One and Squadron Three. The Coast Guard provided heavily armed 82 ft patrol boats and large cutters that included 5" cannons used in battle and gunfire support. USS "Trippe" (FF-1075) was a "Knox"-class frigate of the US Navy, built at Westwego, Louisiana, was commissioned in mid-September 1970.
+Margin: 
+Answer: The United States Navy and South Vietnam were both involved in the Vietnam War, and were both battleships.
+Reward: 0.4079962372779846
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: In July 1971, following shakedown training in the Caribbean area and a surveillance mission off Haiti, she entered the Boston Naval Shipyard for overhaul and installation of the Basic Point Defense Missile System, which featured short-range "Sea Sparrow" guided missiles in an eight-round launcher on her afterdeck. "Trippe" was the Navy's first destroyer-type ship to receive this later-widespread contribution to shipboard protection against air and missile attack. The first months of 1972 were spent testing her new weapons and participating in exercises. In June the ship passed through the Panama Canal en route to Southeast Asian waters, where she provided Vietnam War aircraft carrier escort and naval gunfire support services during July and August. "Trippe" then went to the Indian Ocean and Persian Gulf areas, visiting many ports in a region that would see increasing U.S. Navy activity in the coming decades. She returned to the U.S. East Coast in December 1972, after a deployment that had taken her completely around the World. Rear Adm. J. Edward Snyder, USN (Ret.)
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Rear Admiler.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: (October 23, 1924 – November 4, 2007) was notable as the captain of the battleship USS "New Jersey" during that ship's deployment to the Vietnam War in 1968. Considered by those serving on the "New Jersey" to be a "sailor's captain," Captain Snyder was able to motivate his men through his more relaxed shipboard policies. The United States naval gunfire support debate is an ongoing debate among the United States Navy, Marine Corps, Congress, and independent groups like the "United States Naval Gunfire Support Association" over what role naval gunfire support and naval surface fire support (NSFS) should play within the navy and how such a role can best be provided. At the heart of the issue is the role that naval gunfire support—the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range—should play in the U.S. Navy of the 21st century.
+Margin: 
+Answer: The United States Navy and Marine Corps were both involved in the Vietnam War and have been in the Navy and Marine Corps since 1964.
+Reward: 0.404208779335022
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Naval gunfire support (NGFS) (also known as shore bombardment) is the use of naval artillery to provide fire support for amphibious assault and other troops operating within their range. NGFS is one of a number of disciplines encompassed by the term "Naval Fires". Modern naval gunfire support is one of the three main components of amphibious warfare assault operations support, along with aircraft and ship-launched land-attack missiles. Shipborne guns have been used against shore defences since the early days of naval warfare. Tonkin Gulf Yacht Club was a tongue-in-cheek nickname for the United States Seventh Fleet during the Vietnam War. All through the war in Vietnam, the Seventh Fleet engaged in combat operations against enemy forces through attack carrier air strikes, naval gunfire support, amphibious operations, patrol and reconnaissance operations and mine warfare. Starting in the 1890s, the Italian "Regia Marina" (Royal Navy) began building a series of modern battleships. Early designs were marked by their small size, light armor, and high speed compared to contemporary foreign counterparts.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: The first pre-dreadnought battleship design, the "Ammiraglio di Saint Bon" class , was constrained by budgetary limits imposed by the legislature. Two ships were ordered by the class's namesake, Admiral Simone de Pacoret Saint Bon, though the design was also influenced by Benedetto Brin, who replaced di Saint Bon as naval minister after his death. Brin designed the next pair of battleships, the "Regina Margherita" class . These ships were larger than the preceding class, and were intended to challenge the Austro-Hungarian "Habsburg"-class battleship s then under construction. Brin himself died during the construction process. Vittorio Cuniberti designed the next class of small pre-dreadnoughts, the "Regina Elena" class , which were the fastest battleships in the world at the time of their completion.
+Margin: 
+Answer: The relevant information to answer the question is: "The Vietnam War was fought between the Republic of Vietnam and the Kingdom of France.
+Reward: 0.4405714273452759
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: These ships all served in the Italo-Turkish War of 1911–12, where they were primarily used to provide naval gunfire support for the Italian ground troops, as the Ottoman Navy largely confined itself to port. Kirov (Russian: Киров ; ] ) was a Project 26 "Kirov"-class cruiser of the Soviet Navy that served during the Winter War, World War II and into the Cold War. She attempted to bombard Finnish coast defense guns during action in the Winter War, but was driven off by a number of near misses that damaged her. She led the Evacuation of Tallinn at the end of August 1941, before being blockaded in Leningrad where she could only provide gunfire support during the Siege of Leningrad. She bombarded Finnish positions during the Vyborg–Petrozavodsk Offensive in mid-1944, but played no further part in the war. "Kirov" was reclassified as a training cruiser on 2 August 1961 and sold for scrap on 22 February 1974.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Kirov.
+Reward: 0.5930714011192322
+Query: Who was the captain of the only battleship to provide gunfire support during the Vietnam War?
+Segment: Jean Bart was the second ship of the "Courbet"-class battleship s, the first dreadnoughts built for the French Navy. She was completed before World War I as part of the 1910 naval building programme. She spent the war in the Mediterranean and helped to sink the Austro-Hungarian protected cruiser "Zenta" on 16 August 1914. She spent most of the rest of 1914 providing gunfire support for the Montenegrin Army until she was torpedoed by the submarine "U-12" on 21 December. Even with three compartments flooded, she was able to steam to Malta on her own for repairs that required three and a half months. Upon her return she spent the remainder of the war participating in the Otranto Barrage, in the Adriatic.
+Margin: 
+Answer: The relevant information to answer the question is: "The Captain of the only battleship to provide gunfire support during the Vietnam War was Jean Bart.
+Reward: 0.5954175591468811
+ppo epoch: 0
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.1241e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.2224e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.9862e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0742e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.1173e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 1
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.1986e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.3373e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.9883e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0821e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.1765e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 2
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.1092e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.4253e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.9508e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1318e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(4.9896e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 3
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.9411e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.5944e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(7.0840e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.0947e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.1109e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+ppo epoch: 4
+outputs.loss tensor(0.0001, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(3.9216e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(9.6277e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(6.9147e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(1.1110e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+outputs.loss tensor(5.0924e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+Episode 5 Summary:
+  Average reward: 0.5189
+  No improvement in average reward for 3 episode(s).
+No improvement for 3 episodes. Stopping early.
+Training finished.
+avg reward for threshold
