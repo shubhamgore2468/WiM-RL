@@ -1,6 +1,8 @@
 secrets.txt
 /data/
 /__pycache__/
+/wim_new/__pycache__/
+/wim_new/output/
 
 # Python
 *.pyc
